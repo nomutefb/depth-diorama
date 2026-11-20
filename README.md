@@ -111,4 +111,8 @@ The workflow is in [SKILL.md](SKILL.md) and the scene kit in [SCENES.md](SCENES.
 
 <br>
 
-MIT licensed.
+## License and permissions
+
+`nomutefb` has permission to use and edit the Depth Diorama content in this fork.
+
+The [upstream software and documentation](https://github.com/hardikverma22/depth-diorama) are licensed under the [MIT License](LICENSE). Copyright © 2026 Hardik Verma.
